@@ -1,3 +1,2 @@
-#!/bin/bash
-
-###This includes creating a file directory named alx-system_engineering-devops and moving it to my github account repository named alx-system_engineering-devops.git
+$ ./0-current_working_directory
+/root/alx-system_engineering-devops/0x00-shell_basics$
